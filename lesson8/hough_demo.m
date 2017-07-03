@@ -15,4 +15,4 @@ h = houghtf (edges, 'line');
 figure, imagesc(h), title('Hough accumulator');
 %%
 %%
-%%figure, imshow(edges), title('Edge pixel');
+%%figure, imshow(edges), title('Edge pixel'); 
